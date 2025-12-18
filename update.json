@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.1.0",
   "url": "https://lcnob921lub4.feishu.cn/docx/N5CGd3hnKoSdN7xQpyOcBzhfnxg?from=from_copylink",
   "notes": "1) 拆分PDF：页码输入后预览框移到上传框下方，预览更大\n2) 交互优化：功能完成后的结果展示与提示样式优化\n3) 更新入口：检查更新按钮仅在首页显示\n4) 水印修复：修复水印无效问题\n5) 页码增强：支持位置与样式选择（1、1/10、第1页/共10页等）\n",
   "publishedAt": "2025-12-18",
