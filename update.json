@@ -1,7 +1,35 @@
-
 {
-  "version": "1.0.0",
-  "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQdzmcnJFpjlMSRgxnJDntRngbd",
-  "notes": "1) 修复拖拽上传\n2) 修复水印/页码\n3) 新增检查更新按钮\n",
-  "publishedAt": "2025-12-17"
+  "version": "1.1.0",
+  "url": "https://cloud.189.cn/web/share?code=fINZRzU3yeUb（访问码：qf1p）",
+  "notes": "1) 拆分PDF：页码输入后预览框移到上传框下方，预览更大\n2) 交互优化：功能完成后的结果展示与提示样式优化\n3) 更新入口：检查更新按钮仅在首页显示\n4) 水印修复：修复水印无效问题\n5) 页码增强：支持位置与样式选择（1、1/10、第1页/共10页等）\n",
+  "publishedAt": "2025-12-18",
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": "2025-12-18",
+      "title": "体验与稳定性优化",
+      "downloadUrl": "https://YOUR_DOWNLOAD_LINK_FOR_1_1_0",
+      "changes": [
+        "拆分PDF：页码输入后预览框移到上传框下方，预览尺寸略增大",
+        "交互：功能完成后的结果展示与提示样式优化",
+        "更新入口：检查更新按钮仅在首页显示，功能页不再重复显示",
+        "水印：修复水印无效问题，导出可见",
+        "页码：新增位置（左/中/右）与样式（1、1/10、第1页/共10页）"
+      ],
+      "fixes": []
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": "2025-12-17",
+      "title": "首个公开版本",
+      "downloadUrl": "https://cloud.189.cn/web/share?code=RV7VvauiyUfq（访问码：jdi8）",
+      "changes": [
+        "修复拖拽上传",
+        "修复水印/页码（旧版问题）",
+        "新增检查更新按钮"
+      ],
+      "fixes": []
+    }
+  ]
 }
+
