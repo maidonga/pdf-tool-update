@@ -1,14 +1,28 @@
 {
-  "version": "1.1.0",
-  "url": "https://lcnob921lub4.feishu.cn/docx/N5CGd3hnKoSdN7xQpyOcBzhfnxg?from=from_copylink",
-  "notes": "1) 拆分PDF：页码输入后预览框移到上传框下方，预览更大\n2) 交互优化：功能完成后的结果展示与提示样式优化\n3) 更新入口：检查更新按钮仅在首页显示\n4) 水印修复：修复水印无效问题\n5) 页码增强：支持位置与样式选择（1、1/10、第1页/共10页等）\n",
-  "publishedAt": "2025-12-18",
+  "version": "1.2.0",
+  "url": "https://lcnob921lub4.feishu.cn/docx/N5CGd3hnKoSdN7xQpyOcBzhfnxg",
+  "notes": "1) 新增：Word 转 PDF\n2) 新增：HTML 转 PDF\n3) 界面：切换体验优化，侧栏支持收起\n4) 提示：左下角弹窗样式与交互优化\n5) 导出：优化导出弹窗与导出流程提示\n",
+  "publishedAt": "2025-12-19",
   "history": [
+    {
+      "version": "1.2.0",
+      "publishedAt": "2025-12-19",
+      "title": "新增格式转换与整体 UI 优化",
+      "downloadUrl": "https://YOUR_DOWNLOAD_LINK_FOR_1_2_0",
+      "changes": [
+        "新增：Word 转 PDF",
+        "新增：HTML 转 PDF",
+        "界面：页面切换体验优化，侧栏支持收起",
+        "提示：左下角弹窗优化（视觉与交互）",
+        "导出：导出弹窗优化（信息更清晰、流程更顺畅）"
+      ],
+      "fixes": []
+    },
     {
       "version": "1.1.0",
       "publishedAt": "2025-12-18",
       "title": "体验与稳定性优化",
-      "downloadUrl": "https://YOUR_DOWNLOAD_LINK_FOR_1_1_0",
+      "downloadUrl": "https://lcnob921lub4.feishu.cn/docx/N5CGd3hnKoSdN7xQpyOcBzhfnxg",
       "changes": [
         "拆分PDF：页码输入后预览框移到上传框下方，预览尺寸略增大",
         "交互：功能完成后的结果展示与提示样式优化",
@@ -22,14 +36,13 @@
       "version": "1.0.0",
       "publishedAt": "2025-12-17",
       "title": "首个公开版本",
-      "downloadUrl": "https://cloud.189.cn/web/share?code=RV7VvauiyUfq（访问码：jdi8）",
+      "downloadUrl": "https://YOUR_DOWNLOAD_LINK_FOR_1_0_0",
       "changes": [
         "修复拖拽上传",
-        "修复水印/页码（旧版问题）",
+        "修复水印/页码",
         "新增检查更新按钮"
       ],
       "fixes": []
     }
   ]
 }
-
